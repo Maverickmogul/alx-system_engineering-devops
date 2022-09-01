@@ -1,0 +1,2 @@
+#!bin/bash 
+echo "drwxr-xr-x 2 root root   207 Aug 31 17:08 .drwxr-xroot     0 Aug 31 17:08 4-listmorefiles  -rw-r--r-- 1 root root    35 Aug 31 14:22 README.md"
