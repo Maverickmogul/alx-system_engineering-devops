@@ -1,3 +1,2 @@
-#!/bin/bash
-echo "-rwxr--r-- 1 root root 107 Aug 31 15:12 0-current_working_directory
--rwxr--r-- 1 root root  66 Aug 31 16:08 1-listit"
+#!/bin/bash 
+echo"-rwxr--r-- 1 root root 107 Aug 31 15:12 0-current_working_directory -rwxr-"
